@@ -1,3 +1,3 @@
 # scalpelx
 
-[BLOG](https://scalpelx.herokuapp.com/ "MY HEXO BLOG")
+[MY HEXO BLOG](https://scalpelx.herokuapp.com/)
